@@ -47,6 +47,6 @@ fi
 checkimages
 
 if [ $? -gt 0 ]; then
-TEXT="監視に失敗しました：uploadmonitor1.shが実行できませんでした．管理者に問い合わせてください．フォルダ：1"
+TEXT="監視に失敗しました：uploadmonitor3.shが実行できませんでした．管理者に問い合わせてください．フォルダ：3"
 chatwork
 fi
