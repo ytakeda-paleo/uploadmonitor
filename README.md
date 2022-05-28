@@ -1,5 +1,5 @@
 # uploadmonitor   
-_English version is in prep._
+_English version in prep._
 
 ## 概要
 - 数分間隔で継続的にファイルを特定のフォルダに送信するような処理を行っている時に，その処理が止まっていないかモニタリングします．
