@@ -9,7 +9,7 @@ _English version in prep._
 - MacOS向けに制作しています．LinuxやWindowsでも動作すると思いますが部分的に修正する必要があるかもしれません，
 
 ## MacOSへの導入方法（初心者向け）
-- 今見ているこのサイト(https://github.com/ytakeda-paleo/num-files-monitor)からcode→download zipでスクリプトをダウンロードしてください．
+- 今見ているこのサイト( https://github.com/ytakeda-paleo/num-files-monitor )からcode→download zipでスクリプトをダウンロードしてください．
 - ダウンロードしたzipを展開してください．
 - jaフォルダ内のファイルをすべて，Macのホームディレクトリ（Finder→ユーザー→hogehoge（例））にペーストしてください．
   - フォルダごとペーストではなく，フォルダ内のファイルのみペーストします．
