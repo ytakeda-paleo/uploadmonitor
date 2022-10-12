@@ -1,5 +1,6 @@
 # uploadmonitor   
 _English version in prep._
+The scripts are developed by Yusuke Takeda([@ytakeda-paleo](https://github.com/ytakeda-paleo)) and Yasuhiro Iba.
 
 ## 概要
 - 数分間隔で継続的にファイルを特定のフォルダに送信するような処理を行っている時に，その処理が止まっていないかモニタリングします．
