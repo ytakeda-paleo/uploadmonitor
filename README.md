@@ -1,5 +1,5 @@
 # uploadmonitor   
-_English version in prep._
+_English description bottom of this document._
 The scripts are developed by Yusuke Takeda([@ytakeda-paleo](https://github.com/ytakeda-paleo)) and Yasuhiro Iba.
 
 ## 概要
